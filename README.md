@@ -4,5 +4,4 @@ Criando o arquivo style.css
 
 Alteração feita no master
 
-
-asdasddasd
+asdasd
